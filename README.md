@@ -27,7 +27,7 @@ Results Summary-
 | Prophet | **6.9**      | **8.5**           | **9.8**             |  
 | LSTM    | **7.8**          | **7.1**       | **6.3**         |  
 
-## DOCAFE Pipeline Flowchart  
+##  Pipeline Flowchart  
 
 ![DOCAFE Flowchart](assets/DOCAFE(3).png)
 
