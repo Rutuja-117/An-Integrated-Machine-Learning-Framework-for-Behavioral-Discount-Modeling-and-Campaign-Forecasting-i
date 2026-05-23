@@ -1,4 +1,4 @@
-# DISCOVER: An Integrated Machine Learning Framework for Behavioral Discount Modeling and Campaign Forecasting in E-Commerce.
+# An Integrated Machine Learning Framework for Behavioral Discount Modeling and Campaign Forecasting in E-Commerce.
 A machine learning framework that personalizes discount strategies at the user-product level and forecasts campaign outcomes such as GMV, CVR, and Margin. 
 
 Overview-
